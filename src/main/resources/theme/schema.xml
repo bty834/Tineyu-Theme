@@ -1,0 +1,46 @@
+<scheme name="Tineyu" version="142" parent_scheme="Darcula">
+
+    <metaInfo>
+        <property name="created">2023-10-18</property>
+    </metaInfo>
+    <option name="FONT_SCALE" value="1.0" />
+
+    <option name="LINE_SPACING" value="1.07" />
+
+    <option name="CONSOLE_LINE_SPACING" value="1.0" />
+    <attributes>
+
+        <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="7fe790" />
+            </value>
+        </option>
+        <option name="CLASS_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="10d2ab" />
+            </value>
+        </option>
+        <option name="ENUM_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="18d8ff" />
+            </value>
+        </option>
+        <option name="HTML_CODE">
+            <value />
+        </option>
+        <option name="INTERFACE_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="02b114" />
+            </value>
+        </option>
+        <option name="KOTLIN_LABEL">
+            <value />
+        </option>
+        <option name="MATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="3b514d" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+    </attributes>
+</scheme>

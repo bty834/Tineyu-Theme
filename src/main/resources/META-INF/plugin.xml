@@ -1,18 +1,18 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.bty834.dag</id>
-    <name>DAG</name>
+    <id>com.github.bty834.tineyutheme</id>
+    <name>Tineyu-Theme</name>
     <vendor>bty834</vendor>
 
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.java</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.bty834.dag.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="com.github.bty834.tineyutheme.Tineyu-Theme" path="/theme/tineyu.theme.json"/>
+        <!--        <annotator language="JAVA" implementationClass="com.github.bty834.tineyutheme.annotator.TineyuJavaAnnotator"/>-->
     </extensions>
 
-    <applicationListeners>
-        <listener class="com.github.bty834.dag.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
+
 </idea-plugin>

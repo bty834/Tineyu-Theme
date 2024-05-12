@@ -1,0 +1,23 @@
+{
+  "author": "baotingyu",
+  "dark": true,
+  "parentTheme": "Darcula",
+  "name": "Tineyu",
+  "colors": {
+  },
+  "ui": {
+    "Button": {
+      "arc": 5
+    }
+  },
+
+  "editorScheme": "/theme/schema.xml",
+
+  "icons": {
+    "/nodes/class.svg":  "/images/icons/class.svg",
+    "/nodes/interface.svg": "/images/icons/interface.svg",
+    "/nodes/abstractClass.svg": "/images/icons/class.svg",
+    "/nodes/enum.svg": "/images/icons/enum.svg",
+    "/nodes/annotationtype.svg": "/images/icons/anno.svg"
+  }
+}
