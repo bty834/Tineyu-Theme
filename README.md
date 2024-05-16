@@ -1,5 +1,7 @@
 <!-- Plugin description -->
-DIY intellij theme based on Darcula
+Tineyu Theme plugin: colorful Darcula Theme:
+colorful Class Enum Interface Annotation ;
+colorful svg of Java file
 <!-- Plugin description end -->
 
 # quick start

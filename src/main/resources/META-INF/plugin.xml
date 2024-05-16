@@ -4,10 +4,13 @@
     <name>Tineyu-Theme</name>
     <vendor>bty834</vendor>
 
+    <description>
+        Tineyu Theme plugin: colorful Darcula Theme:
+        colorful Class Enum Interface Annotation ;
+        colorful svg of Java file
+    </description>
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.java</depends>
-
-    <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.bty834.tineyutheme.Tineyu-Theme" path="/theme/tineyu.theme.json"/>
