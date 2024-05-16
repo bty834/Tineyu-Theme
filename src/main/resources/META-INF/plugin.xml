@@ -4,10 +4,11 @@
     <name>Tineyu-Theme</name>
     <vendor>bty834</vendor>
 
-    <description>
-        Tineyu Theme plugin: colorful Darcula Theme:
-        colorful Class Enum Interface Annotation ;
+    <description><![CDATA[
+     Tineyu Theme plugin: colorful Darcula Theme:
+        colorful Class Enum Interface Annotation ,
         colorful svg of Java file
+    ]]>
     </description>
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.java</depends>
