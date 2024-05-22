@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 1000 1000">
-	<circle fill-opacity="0.6" r="437.5" cx="500" cy="500" fill="#000000" style="stroke: rgb(187, 178, 89); stroke-width: 62.5px; stroke-opacity: 1;"></circle>
-	<g transform="scale(0.55)"><path fill-opacity="1" transform="translate(430, 1150) rotate(180) scale(-1, 1)" fill="#bbb259" d="M499 -162c-256 0 -446 197 -446 436s193 438 438 438s436 -187 436 -396c0 -170 -95 -245 -187 -245c-73 0 -121 34 -140 84c-39 -46 -90 -84 -165 -84c-98 0 -179 72 -179 182c0 142 118 249 231 249c78 0 122 -41 146 -83l13 69l67 -9l-40 -227c-5 -28 -7 -50 -7 -61 c0 -51 31 -81 85 -81c71 0 140 64 140 206c0 184 -171 362 -400 362c-230 0 -402 -182 -402 -404c0 -223 170 -402 410 -402c100 0 172 23 249 68l16 -27c-77 -47 -161 -75 -265 -75zM450 133c86 0 164 86 164 180c0 73 -52 127 -122 127c-84 0 -164 -79 -164 -182 c0 -79 51 -125 122 -125z"></path></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 2048 2048">
+	<circle fill-opacity="1" r="896" cx="1024" cy="1024" fill="#000000" style="stroke: rgb(187, 178, 89); stroke-width: 128px; stroke-opacity: 1;"></circle>
+	<g transform="scale(0.69)"><path fill-opacity="1" transform="translate(901.12, 2149.92) rotate(180) scale(-1, 1)" fill="#bbb259" d="M616 1315l-213 -764h426zM494 1493h245l457 -1493h-209l-110 389h-523l-108 -389h-209z"></path></g>
 </svg>
