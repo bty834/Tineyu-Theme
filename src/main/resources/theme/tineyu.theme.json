@@ -18,6 +18,7 @@
     "/nodes/interface.svg": "/images/icons/interface.svg",
     "/nodes/abstractClass.svg": "/images/icons/class.svg",
     "/nodes/enum.svg": "/images/icons/enum.svg",
-    "/nodes/annotationtype.svg": "/images/icons/anno.svg"
+    "/nodes/annotationtype.svg": "/images/icons/anno.svg",
+    "/nodes/exceptionClass.svg": "/images/icons/exception.svg"
   }
 }
